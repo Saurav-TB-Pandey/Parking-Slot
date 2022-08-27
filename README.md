@@ -1,2 +1,2 @@
 # Parking-Slot
-This Project Is Totally Made In Java.
+This Project Is Totally Written In Java.
