@@ -19,7 +19,7 @@ public class Registration_Page
                 System.out.print("Mobile Number- ");
                 mobile_number= input.nextLine();       // Taking Mobile Number
 
-                System.out.print("Vehicle Type- ");
+                System.out.print("Vehicle Type- (two wheeler / four wheeler");
                 vehicle_type= input.nextLine();        // Taking Vehicle Type
 
                 System.out.print("Vehicle Number- ");
