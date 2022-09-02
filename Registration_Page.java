@@ -7,7 +7,8 @@ class Taking_Inputs
     static Scanner input= new Scanner(System.in);
     public static void inputs()
     {
-        System.out.println("\tRegistration Page");
+        System.out.println("**********************  WELCOME TO PARKING SYSTEM APPLICATION  ************************");
+        System.out.println("**********************   REGISTER YOURSELF FOR PARKING  ************************");
         System.out.print("First Name - ");
         first_name= input.nextLine();          // Taking First Name
 
