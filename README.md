@@ -1,14 +1,11 @@
 # Parking-Slot
 This Project Is Totally Written In Java.
-We are created database with name of parking _slot
-And there we created two table one of name
- is User_detail and another is user.
 
-We are created table User_detail for registration
-And taking varchar For datatype except mobile
- number for mobile number we are taking long
-Datatype and in -user table we all take varchar 
-Datatype.
+Registration_Page.java is our main file where we have merged all files.
 
-And main class is in registration class 
+In database,
+We have created database with name Parking_Slot 
+And there we created two tables User_Details & user.
 
+We have created table User_Details to store data of user registrations
+and table user is created for storing the data of booking details.
