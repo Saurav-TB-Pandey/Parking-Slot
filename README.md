@@ -10,3 +10,5 @@ And taking varchar For datatype except mobile
 Datatype and in -user table we all take varchar 
 Datatype.
 
+And main class is in registration class 
+
